@@ -33,3 +33,7 @@ a {
     color: #009FDA;
     text-decoration: none;
 }
+
+.fullWidth {
+    width: 100%;
+}
