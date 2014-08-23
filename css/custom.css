@@ -1,16 +1,19 @@
 #logoo {
-    padding-top: .5em;
+    padding-top: 2em;
     text-align: center;
+    padding-bottom: 2em;
     
     max-height: 250px;
 
 }
 #logoText {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 6em;
     max-height: 10em;
 }
 
 #mainContainer {
-    padding-top: 1.25em;
+    padding-top: 1.5em;
     margin: 0 auto;
     width: 50%;
     min-width: 800px;
