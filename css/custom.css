@@ -11,7 +11,17 @@
     font-size: 6em;
     max-height: 10em;
 }
-
+#footer {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    bottom: 0px;
+}
+#footerText {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1em;
+    color: rgba(173,173,173,1);
+}
 #mainContainer {
     padding-top: 1.5em;
     margin: 0 auto;
