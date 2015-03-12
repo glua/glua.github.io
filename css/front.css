@@ -1,0 +1,10 @@
+.sndplayer {
+	width: 100%;
+	height: 166;
+}
+
+/* seamless still isn't supported in the wild. */
+
+iframe[seamless] {
+	border: none;
+}
