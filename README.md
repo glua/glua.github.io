@@ -13,11 +13,3 @@ Steps to a successful pull-request
 - Get someone to look over your changes.
 
 If you aren't sure speak to someone in the GModCoders chat.
-
-Wait? How does the docs directory get here?
-------------------
-We use DeployHQ to auto deploy from this repo the webserver. After the site has been updated it runs the command:
-
-    rm -Rf %path%/docs && git clone -b gh-pages https://github.com/samuelmaddock/glua-docs.git %path%/docs
-    
-as the site gets more complicated the build process may need to change.
