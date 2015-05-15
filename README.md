@@ -1,4 +1,4 @@
-glua.me
+glua.io
 =======
 
 The aim of this site is to be the portal for Garry's Mod Lua coders.
